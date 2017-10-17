@@ -3,10 +3,10 @@
   "version": "0.0.2",
   "description": "Module to read from MCP3424 4Channel Delta Sigma ADC",
   "main": "main.js",
-  "author": "Fabian Behnke",
+  "author": "Fabian Behnke, Keith Bryer",
   "repository": {
     "type": "git",
-    "url": "http://github.com/x3itsolutions/mcp3424.git"
+    "url": "http://github.com/innovodesign/mcp3424.git"
   },
   "license": "MIT",
   "dependencies": {
